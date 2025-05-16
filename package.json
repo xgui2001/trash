@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "lil-gui": "^0.20.0",
+    "three": "^0.175.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.2"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}
